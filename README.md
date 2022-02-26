@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gurkangulcan
-- 👀 I’m interested in python, AI, php, mysql
-- 🌱 I’m currently learning python and php
+- 👀 I’m interested in python, AI, mysql
+- 🌱 I’m currently learning python and tensorflow
 - 💞️ I’m looking to collaborate on AI
 - 📫 you can reach me via gurkangulcan@gmail.com
 
